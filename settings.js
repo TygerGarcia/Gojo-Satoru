@@ -31,8 +31,8 @@ global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'Shit'
 global.author = 'GARDEN BOY🚀'
-global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.sessionName = 'aEpXUEFMVUQ='
+global.prefa = ['',']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
