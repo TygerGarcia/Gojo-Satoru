@@ -22,7 +22,7 @@ global.APIKeys = {
 global.owner = ['27787896221']
 global.premium = ['27787896221']
 global.ownernomer = '27787896221'
-global.ownername = 'GARDEN BOY🚀'
+global.ownername = 'MamasBoy💞🃏'
 global.botname = 'Gojo-Satoru'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
@@ -30,9 +30,9 @@ global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'Shit'
-global.author = 'GARDEN BOY🚀'
-global.sessionName = 'aEpXUEFMVUQ='
-global.prefa = ['',']
+global.author = 'MAMASBOY📲'
+global.sessionName = 'cEE2OGhjSmc='
+global.prefa = ['-']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
